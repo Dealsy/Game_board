@@ -1,0 +1,12 @@
+.TotalPlayers{
+	border: solid #4F5B68 ; 
+	padding: 5px;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.form-control{
+	background-color: #1C242D !important;
+	color: white !important;
+	border: 1px solid #4F5B68 !important;
+}
